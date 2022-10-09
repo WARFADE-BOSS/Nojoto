@@ -64,7 +64,7 @@ if($refer){
 	$file="ab/$refer.txt";
 	$s=file_get_contents($file);
 	$s1=$s+1;
-	if($s>=99){
+	if($s>=40){
 		echo'<h1 class="error">Your Refer Limit Over</h1>';
 		heeader("Refresh:0.1 url=$url");
 	}else{
