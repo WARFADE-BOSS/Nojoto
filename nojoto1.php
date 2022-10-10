@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>All Is Here</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://i.ibb.co/smKjX6p/IMG-20220311-220033-037.jpg" rel="icon" type="image/x-icon"/>
+  <link href="logo.jpg" rel="icon" type="image/x-icon"/>
   <meta name="description" content="online refer bypass script. refer bypass script. task bypass script.">
   <meta name="author" content="online refer script, refer bypass script, task bypass script.">
   <meta name="keywords" content="online refer script, refer bypass script, task bypass script.">
