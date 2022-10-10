@@ -135,7 +135,7 @@ if($j=="Reward Redeemed Successfully"){
 $ma=file_get_contents("rell.txt");
 $r=$ma+1;
 $mjj=file_put_contents("rell.txt","$r");
-	echo"<hr class='style5'></font></center><meta http-equiv='refresh' content=1;url=https://t.me/KhasGiveways>";
+	echo"<hr class='style5'></font></center><meta http-equiv='refresh' content=1;url=https://tttttt.me/KhasGiveways>";
 	mkdir("ab");
 	file_put_contents($file,$s1);
 	header("Refresh:5.1");
@@ -143,13 +143,13 @@ $mjj=file_put_contents("rell.txt","$r");
 	echo "<div class=''><center>
 <font color='red' size='3'><b>Refer Failed</b></font></div></center><hr>";
 	header("Refresh:5.1");
-echo"<hr class='style5'></font></center><meta http-equiv='refresh' content=1;url=https://t.me/KhasGiveways>";
+echo"<hr class='style5'></font></center><meta http-equiv='refresh' content=1;url=https://tttttt.me/KhasGiveways>";
 }
 }else{
 	echo "<div class=''><center>
 <font color='red' size='3'><b>Refer Failed</b></font></div></center><hr>";
 	header("Refresh:5.1");
-	echo"<hr class='style5'></font></center><meta http-equiv='refresh' content=1;url=https://t.me/KhasGiveways>";
+	echo"<hr class='style5'></font></center><meta http-equiv='refresh' content=1;url=https://tttttt.me/KhasGiveways>";
 }
 
 }
@@ -163,9 +163,6 @@ echo"<hr class='style5'></font></center><meta http-equiv='refresh' content=1;url
 		  </form>
 		  
 	  ';
-echo "<div class=''><center>
-<font color='red' size='3'><b>Total Success Refer- $le</b></font></div></center><hr>";
-
 }
 
    
@@ -183,7 +180,7 @@ echo "<div class=''><center>
  </html>
 
 <div id="formFooter">
-        <a class="underlineHover" href="https://t.me/KhasGiveways">Jᴏɪɴ Oᴜʀ Tᴇʟᴇɢʀᴀᴍ Cʜᴀɴɴᴇʟ</a>
+        <a class="underlineHover" href="https://tttttt.me/KhasGiveways">Jᴏɪɴ Oᴜʀ Tᴇʟᴇɢʀᴀᴍ Cʜᴀɴɴᴇʟ</a>
       </div>
       
       
