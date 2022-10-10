@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>All Is Here</title>
+  <title>NOJOTO BY WARFADE</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="logo.jpg" rel="icon" type="image/x-icon"/>
   <meta name="description" content="online refer bypass script. refer bypass script. task bypass script.">
