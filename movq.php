@@ -11,6 +11,17 @@ border: 2px solid rgb(0, 141, 146);
   border-radius: 5px 5px 5px 5px;
   outline: none;margin-top: 0px; margin-bottom: 25px;
   }
+input,button{ font-family: 'Bree Serif', serif; width: 100%; height: 45px; font-weight: 200;
+padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 14px;
+  margin: 5px auto;
+border: 2px solid rgb(0, 141, 146);
+  border-radius: 5px 5px 5px 5px;
+  outline: none;margin-top: 0px; margin-bottom: 25px;
+  }
 .input{ border: 1.5px solid rgb(211, 211, 211); background-color: transparent; padding: 0 15px; transition: 0.5s; }
  .input:focus{ border: 1.5px solid rgb(0, 141, 146); }
   .submit{ margin: 15px 0; border: none; background-color: rgb(0, 141, 146); color: #fff; text-transform: uppercase; letter-spacing: 2px; box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.349); transition: 0.5s; } .submit:hover{ background-color: rgb(7, 89, 94); } .telegram{ font-family: 'Bree Serif', serif; width: 100%; height: 65px; font-weight: 200; margin: 30px 0; border-radius: 4px; background-color: rgb(0, 141, 146); display: flex; justify-content: center; align-items: center; box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.349); } .telegram i{ color: #fff; font-size: 30px; margin-left: -30px; } .telegram a{ color: #fff; text-decoration: none; font-weight: 300; letter-spacing: 2px; margin-left: 10px; font-size: 16px; text-transform: uppercase; } .success{ font-size: 15px; letter-spacing: 1px; font-family: 'Bree Serif', serif; width: 100%; padding: 18px 0; font-weight: 200; margin: 10px 0; border-radius: 4px; background-color: #d1e6dd; color: #105133; border: 1px solid #9fcfba; } .error{ font-size: 15px; letter-spacing: 1px; font-family: 'Bree Serif', serif; width: 100%; padding: 18px 0; font-weight: 200; margin: 10px 0; border-radius: 4px; background-color: #f7d7da; color: #84200a; border: 1px solid #f5c2c7; } .white{ font-size: 15px; letter-spacing: 1px; font-family: 'Bree Serif', serif; width: 100%; padding: 18px 0; font-weight: 200; margin: 10px 0; border-radius: 4px; background-color: #e2e3e5; color: #41464a; border: 1px solid #d5dbdb; } .blue{ font-size: 15px; letter-spacing: 1px; font-family: 'Bree Serif', serif; width: 100%; padding: 18px 0; font-weight: 200; margin: 10px 0; border-radius: 4px; background-color: #cfe2ff; color: #084195; border: 1px solid #d7d4fe; }
@@ -80,6 +91,7 @@ echo'	<form method="GET"action"">
 		</form>';
 }
 ?>
-<div id="formFooter">
-        <a class="underlineHover" href="https://tttttt.me/KhasGiveways">Jᴏɪɴ Oᴜʀ Tᴇʟᴇɢʀᴀᴍ Cʜᴀɴɴᴇʟ</a>
-      </div>
+<br>
+	<button onClick="window.location='https://tttttt.me/KhasGiveways'">JOIN TELEGRAM</button>
+
+<div class="success">By ==> WarFade</div>
