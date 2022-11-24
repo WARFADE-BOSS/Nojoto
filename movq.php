@@ -79,5 +79,7 @@ echo'	<form method="GET"action"">
 		<input type="submit"class="submit"name="submit"value="submit">
 		</form>';
 }
-echo"<div class='success'>By Looter 2.O</div>";
 ?>
+<div id="formFooter">
+        <a class="underlineHover" href="https://tttttt.me/KhasGiveways">Jᴏɪɴ Oᴜʀ Tᴇʟᴇɢʀᴀᴍ Cʜᴀɴɴᴇʟ</a>
+      </div>
