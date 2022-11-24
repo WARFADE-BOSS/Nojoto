@@ -92,6 +92,6 @@ echo'	<form method="GET"action"">
 		</form>';
 }
 ?>
-	<button onClick="window.location='https://tttttt.me/KhasGiveways'">JOIN TELEGRAM</button>
+	<!--<button onClick="window.location='https://tttttt.me/KhasGiveways'">JOIN TELEGRAM</button>-->
 
-<div class="success">By ==> WarFade</div>
+<div class="success">#COPIED</div>
