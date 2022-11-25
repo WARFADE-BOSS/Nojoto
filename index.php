@@ -86,7 +86,7 @@ $output=httpCall($url,$empty,$headers,"GET",0);
 echo '<center><img src="data:image/jpeg;base64,'.base64_encode($output).'" width="65%" class=""/><br></center>';
 echo'	<form method="GET"action"">
 	<input type="hidden"name="cookie"value="'.$cookie.'">
-				<input type="text"name="code"placeholder="Enter Captcha Code"   >
+				<input type="text"name="code"placeholder="Enter Captcha Code" autocomplete="off"  >
 				<input type="text"name="refer"placeholder="Enter Refer Code"   >
 		<input type="submit"class="submit"name="submit"value="submit">
 		</form>';
