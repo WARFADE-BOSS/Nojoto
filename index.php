@@ -72,7 +72,7 @@ $headers=['cookie: PHPSESSID='.$cookie.'','cookie: my_user='.$token.''];
 $ouput=httpCall($url,$data,$headers,"POST",0);
 echo$ouput=httpCall($url,$data,$headers,"POST",0);
 echo"<div class='success'>Refer Dn</div>";
-
+header("Refresh:0.1");
 
 }else{
 	$url="https://moneybyvideo.com/reg";
